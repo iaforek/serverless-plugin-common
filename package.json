@@ -1,0 +1,28 @@
+{
+  "name": "serverless-plugin-common",
+  "version": "1.0.0",
+  "description": "Serverless Plugin Common",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaforek/serverless-plugin-common.git"
+  },
+  "keywords": [
+    "serverless",
+    "sls",
+    "plugin",
+    "common",
+    "path",
+    "shared",
+    "library"
+  ],
+  "author": "Arek Jaworski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iaforek/serverless-plugin-common/issues"
+  },
+  "homepage": "https://github.com/iaforek/serverless-plugin-common#readme"
+}

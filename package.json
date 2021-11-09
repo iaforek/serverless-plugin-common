@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/iaforek/serverless-plugin-common/issues"
   },
-  "homepage": "https://github.com/iaforek/serverless-plugin-common#readme"
+  "homepage": "https://github.com/iaforek/serverless-plugin-common#readme",
+  "dependencies": {
+    "replace-in-file": "^6.3.2"
+  }
 }
